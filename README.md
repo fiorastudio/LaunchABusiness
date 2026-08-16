@@ -22,6 +22,7 @@ My mission is to help everyone level up on AI fluency and get the most out of th
 |-----|-----------------|-------------|--------|
 | 1 | [Ali Abdaal: How to Start a Business in 2024](https://m.youtube.com/watch?v=5FokzkHTpc0) | Ali Abdaal: How to Start a Business in 2024 | ✅ |
 | 2 | business-intel | Market trends and CAGR analysis for business validation. | ✅ |
+| 3 | Ali Abdaal Framework | High-fidelity takeaways on starting a business in 2024. | ✅ |
 
 ## Resources
 
